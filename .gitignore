@@ -1,0 +1,12 @@
+package-lock.json
+build
+artifacts
+cache
+.openzeppelin
+# dependencies
+/node_modules
+
+#secrets
+secrets.json
+.env
+lib
